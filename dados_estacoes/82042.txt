@@ -1,0 +1,17 @@
+--------------------
+BDMEP - INMET
+--------------------
+Estação           : CARACARAI - RR (OMM: 82042)
+Latitude  (graus) : 1.83
+Longitude (graus) : -61.12
+Altitude  (metros): 60.00
+Estação Operante
+Inicio de operação: 11/01/1970
+Periodo solicitado dos dados: 01/01/1900 a 01/01/2016
+Os dados listados abaixo são os que encontram-se digitados no BDMEP
+Hora em UTC
+--------------------
+Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
+      Para o formato planilha XLS, siga as instruções
+--------------------
+Estacao;Data;Hora;TempBulboSeco;TempBulboUmido;UmidadeRelativa;PressaoAtmEstacao;DirecaoVento;VelocidadeVentoNebulosidade;

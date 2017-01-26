@@ -1,0 +1,17 @@
+--------------------
+BDMEP - INMET
+--------------------
+Estação           : BENTO GONCALVES - RS (OMM: 83941)
+Latitude  (graus) : -29.15
+Longitude (graus) : -51.51
+Altitude  (metros): 640.00
+Estação Operante
+Inicio de operação: 01/02/1918
+Periodo solicitado dos dados: 01/01/1900 a 01/01/2016
+Os dados listados abaixo são os que encontram-se digitados no BDMEP
+Hora em UTC
+--------------------
+Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
+      Para o formato planilha XLS, siga as instruções
+--------------------
+Estacao;Data;Hora;TempBulboSeco;TempBulboUmido;UmidadeRelativa;PressaoAtmEstacao;DirecaoVento;VelocidadeVentoNebulosidade;

@@ -1,0 +1,17 @@
+--------------------
+BDMEP - INMET
+--------------------
+Estação           : ITUMBIARA - GO (OMM: 83523)
+Latitude  (graus) : -18.41
+Longitude (graus) : -49.21
+Altitude  (metros): 449.00
+Estação Operante
+Inicio de operação: 10/06/1989
+Periodo solicitado dos dados: 01/01/1900 a 01/01/2016
+Os dados listados abaixo são os que encontram-se digitados no BDMEP
+Hora em UTC
+--------------------
+Obs.: Os dados aparecem separados por ; (ponto e vírgula) no formato txt.
+      Para o formato planilha XLS, siga as instruções
+--------------------
+Estacao;Data;Hora;TempBulboSeco;TempBulboUmido;UmidadeRelativa;PressaoAtmEstacao;DirecaoVento;VelocidadeVentoNebulosidade;
